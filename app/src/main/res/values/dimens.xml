@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_10">10dp</dimen>
+    <dimen name="size_11">11dp</dimen>
+    <dimen name="size_12">12dp</dimen>
+    <dimen name="size_14">14dp</dimen>
+    <dimen name="size_16">16dp</dimen>
+    <dimen name="size_2">2dp</dimen>
+    <dimen name="size_24">24dp</dimen>
+    <dimen name="size_3">3dp</dimen>
+    <dimen name="size_32">32dp</dimen>
+    <dimen name="size_4">4dp</dimen>
+    <dimen name="size_40">40dp</dimen>
+    <dimen name="size_48">48dp</dimen>
+    <dimen name="size_8">8dp</dimen>
+
+    <dimen name="standard_padding">12dp</dimen>
+    <dimen name="large_text">20sp</dimen>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">android-accessibility</string>
+
+    <string name="accept">Aceptar</string>
+    <string name="password">Constraseña</string>
+    <string name="user_name">Nombre de usuario</string>
+    <string name="required_field">Campo requerido</string>
+    <string name="user_name_is_required">Nombre de usuario es requerido</string>
+    <string name="password_is_required">Constraseña requerida</string>
+    <string name="trust_this_device">Confiar en este dispositivo</string>
+    <string name="enter_your_user_name">Ingrese su nombre de usuario</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_my_list">Mi Lista</string>
+    <string name="menu_contacts">Contactos</string>
+    <string name="menu_ads">Avisos</string>
+    <string name="menu_more">Más</string>
+    <string name="locate_us">Ubícanos</string>
+    <string name="call_us">Llámanos</string>
+    <string name="name">Nombre</string>
+    <string name="hint_name">Ingrese su nombre</string>
+    <string name="downloads">Descargas</string>
+    <string name="numbers_downloads">100 M+</string>
+    <string name="stars">4.4</string>
+    <string name="population">1K reseñas</string>
+
+    <string name="option_1">Opción 1</string>
+    <string name="option_2">Opción 2</string>
+    <string name="correct">¡Correcto!</string>
+    <string name="incorrect">Incorrecto</string>
+    <string name="logo_company">Logotipo de Empresa</string>
+    <string name="choose_one_off_following_options">Marque una de las siguientes opciones:</string>
+</resources>

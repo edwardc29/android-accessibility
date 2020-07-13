@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_validate_user_name_and_password">Validar el nombre de usuario y la contraseña</string>
+    <string name="accessibility_locate_offices">Localizar las oficinas</string>
+    <string name="accessibility_call">Llamarnos</string>
+    <string name="accessibility_number_download">Más de %1$d mil descargas</string>
+    <string name="accessibility_description_stars">Un promedio de %1$.1f estrellas de un total de %2$d reseñas</string>
+    <string name="accessibility_not_trust_this_device">No confiar en este dispositivo</string>
+</resources>
